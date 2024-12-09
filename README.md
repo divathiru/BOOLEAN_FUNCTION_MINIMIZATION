@@ -44,7 +44,7 @@ modules. Create waveform and check outputs against expected results
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:K.Dilli Babu :24900561
+Developed by: RegisterNumber:K.Thirumurugan : 24005998
 
 module boolean_function_minimization(a, b, c, d, w, x, y, z, f1, f2);
 input a, b, c, d, w, x, y, z;
